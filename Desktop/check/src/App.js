@@ -1,15 +1,16 @@
 
 import './App.css';
-import ChildA from './ChildA';
+import React from 'react';
+
 
 
 function App() {
-  const name = "Ashu"
-  return (
+return(
     <>
-    <ChildA/>
+
     </>
-     
-  );
+)
+
+ 
 }
 export default App;
